@@ -1,19 +1,16 @@
 ---
 layout: page
-title: About Pixyll
+title: About Alan
 permalink: /about/
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+I am **Alan Wright**. I'm currently a software engineer for Microsoft [PowerBI](http://powerbi.com). I reside in Bellevue, WA.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+Some of my latest creations include [NetflixBot](http://github.com/alanwright/netflixbot) and [BitDay.me](http://bitday.me). I also enjoy challenging myself with Project Euler. I'm currently coding in Python, C# and JavaScript and embracing flat design. If you'd like to work together, give me a shout.
 
-Thanks to the following:
+I'd love if you checked out my [blog](http://alan-wright.com) and followed me on [Twitter](http://twitter.com/iamalanwright) :)
 
-* [BASSCSS](http://basscss.com)
+This site was created using:
+
 * [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Solarized](http://ethanschoonover.com/solarized)
+* [Pixyll](http://pixyll.com)

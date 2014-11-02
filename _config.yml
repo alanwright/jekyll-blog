@@ -1,23 +1,23 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Alan Wright
+email:       alanwright47@gmail.com
+author:      Alan Wright
+description: "A personal site and blog for Alan Wright."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://alan-wright.com"
 
 # Google analytics
-google_analytics:
+google_analytics: "UA-32735185-1"
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Social icons
 show_social_icons: false
-github_username:
-twitter_username:
+github_username: alanwright
+twitter_username: iamalanwright
 google_plus_id:
 linkedin_username:
 bitcoin_url:
